@@ -1,5 +1,7 @@
-# setup environment
+```
+# 100 Checkbox with authentication and io sockets
 
+## setup environment
 npm i
-node runSetup.js
-node app.js
+npm run dev
+```
