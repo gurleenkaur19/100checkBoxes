@@ -4,5 +4,6 @@
 
 ```
 npm i
+npm run db:init
 npm run dev
 ```
